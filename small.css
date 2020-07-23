@@ -1,0 +1,30 @@
+
+
+/*-------ids------*/
+
+#container{
+	width: 100%;
+
+}
+
+
+
+
+/*----------classes----*/
+.computer,.chilli{
+	text-align: center;
+  padding: 20px;
+  float:inherit; 
+}
+
+
+
+
+
+/*----------elements-------*/
+h1{
+	font-size: 4rem;
+}
+p{
+	text-align: center;
+}
